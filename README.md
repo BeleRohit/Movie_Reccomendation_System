@@ -23,5 +23,5 @@ The recommendation system utilizes collaborative filtering, which relies on user
     * Single Value Decomposition(SVD)
     * SVD++
 
-Code: <a href="https://github.com/shivam1808/Recommendation-System/blob/master/Collaborative%20Filtering%20recommender%20model.ipynb">Collaborative Filtering recommender model.ipynb</a>
+Code: <a href="https://github.com/BeleRohit/Movie_Reccomendation_System/blob/main/Collaborative%20Filtering%20recommender%20model.ipynb">Collaborative Filtering recommender model.ipynb</a>
 
