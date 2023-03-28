@@ -9,11 +9,11 @@ Unsupervised Learning Project
 
 ## Section A: Recommendation System using KNN (K-Nearest Neighbours)
 
-Code: <a href="https://github.com/shivam1808/Recommendation-System/blob/master/Product%20Recommender%20System.ipynb">Product Recommender System.ipynb</a>
+Code: <a href="https://github.com/BeleRohit/Movie_Reccomendation_System/blob/main/Product%20Recommender%20System.ipynb">Product Recommender System.ipynb</a>
 
 ## Section C: Collaborative Filtering Recommendation model
 
-This recommendation is however based on Collaborative filtering which uses easily captured user behaviour data. The rating data is represented using a matrix where users are along the rows and products are along the columns.
+The recommendation system utilizes collaborative filtering, which relies on user behavior data that can be easily obtained. The rating data is organized in a matrix format where users are represented in the rows and products are in the columns.
 
 * Collaborative Filtering
   * Memory based collaborative filtering
